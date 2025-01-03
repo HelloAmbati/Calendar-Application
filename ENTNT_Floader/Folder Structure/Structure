@@ -1,0 +1,21 @@
+communication-tracking/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Dashboard.js
+│   │   ├── CalendarView.js
+│   │   ├── CommunicationForm.js
+│   │   ├── NotificationGrid.js
+│   │   ├── ReportDashboard.js
+│   │   └── Header.js
+│   ├── pages/
+│   │   ├── AdminPage.js
+│   │   ├── UserPage.js
+│   └── services/
+│       ├── api.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+├── package.json
+└── README.md
+
